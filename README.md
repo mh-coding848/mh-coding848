@@ -1,4 +1,9 @@
-## <img src="https://demolab.com!+👋" alt="Typing SVG" />
+# Hey there, thanks for stopping by! 👋
+
+<p align="left">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
+
 
 - 🔭 I am currently working on:
 
