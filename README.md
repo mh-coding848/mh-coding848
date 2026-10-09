@@ -1,10 +1,11 @@
-# Hey there! 👋
-# Thanks for stopping by! 🙂
+# Welcome to my Profile...
 
-- 🔭 I am currently working on:
-
+- 💻 I am currently working on:
+     HTML CSS JAVASCRIPT & PYTHON
+  
 - 🌱 I am currently learning:
-
+     HTML CSS JAVASCRIPT PYTHON & CMD
+  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
