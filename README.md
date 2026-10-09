@@ -1,9 +1,5 @@
-# Hey there, thanks for stopping by! 👋
-
-<p align="left">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
-
+# Hey there! 👋
+# Thanks for stopping by! 🙂
 
 - 🔭 I am currently working on:
 
